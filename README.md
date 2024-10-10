@@ -17,18 +17,27 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:akshayrishu4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=Email&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="Email" />
   </a>
 </p>
 
-Welcome to my GitHub profile! I'm a passionate BTech student and web developer, constantly learning and building cool projects. Here, you'll find some of my latest works, including personal projects, open-source contributions, and challenges I'm working on.
-
----
 
 ## 🔧 Tech Stack & Skills
-- **Languages**: C++, JavaScript
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend**: Express.js, MongoDB
+- **Languages**:
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+- **Frontend**:
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+
+- **Backend**:
+  <img src="https://img.shields.io/badge/Express.js-FEFEFE?logo=express&logoColor=black&style=flat" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  
 - **Other Tools**: Git, GitHub, VS Code, npm
 - **Learning**: Data Structures and Algorithms (DSA), Open-source contributions, Backend with Node.js, and more!
 
