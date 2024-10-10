@@ -6,11 +6,19 @@
 </p>
 
 <h2 align="center">👨‍💻 About Me</h2>
-<p align="center">
+<h5 align="center">
   🌱 I'm currently pursuing a <b>Bachelor of Technology (BTech)</b> and exploring the vast world of <b>web development</b> and <b>data structures & algorithms (DSA)</b>.<br>
   💡 I’m passionate about building <b>innovative projects</b> that solve real-world problems and enhance <b>user experiences</b>. I'm also diving into <b>open source contributions</b>.<br>
   💞 I’m always open to collaborating on impactful web development projects or any exciting challenge that pushes the boundaries of technology.<br>
   📌 <b>Let’s connect</b> on my social media:<br>
+</h5>
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshay-kumar-93b487215/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:akshayrishu4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=Email&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 Welcome to my GitHub profile! I'm a passionate BTech student and web developer, constantly learning and building cool projects. Here, you'll find some of my latest works, including personal projects, open-source contributions, and challenges I'm working on.
