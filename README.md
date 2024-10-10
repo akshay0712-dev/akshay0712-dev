@@ -38,7 +38,12 @@
   <img src="https://img.shields.io/badge/Express.js-FEFEFE?logo=express&logoColor=black&style=flat" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   
-- **Other Tools**: Git, GitHub, VS Code, npm
+- **Other Tools**:
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS CODE" />
+  <img src="https://img.shields.io/badge/NPM-2D3136.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+ 
 - **Learning**: Data Structures and Algorithms (DSA), Open-source contributions, Backend with Node.js, and more!
 
 ---
