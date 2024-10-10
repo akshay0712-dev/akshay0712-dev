@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate BTech student and web developer, 
 ## 🛠 Projects
 Here are some of my favorite projects:
 - **[CampusDocs](https://github.com/akshay/CampusDocs)**: A platform for accessing essential student documents and college WhatsApp groups.
-- **7-day React Challenge**: I'm currently building 7 React projects in 7 days to enhance my skills.
+- **[7-day React Challenge](https://akshay0712-dev.github.io/project/)**: I'm currently building 7 React projects in 7 days to enhance my skills.
 
 Check out my repositories to explore more projects!
 
