@@ -1,6 +1,6 @@
-<h1>Hi there, I'm Akshay Kumar! 👋</h1>
+<h1 align="center">Hi there, I'm Akshay Kumar! 👋</h1>
 
-<h3>Aspiring Software Developer | Tech Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Aspiring Software Developer | Tech Enthusiast | Open Source Contributor</h3>
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNsZnZnODR1YTc2a3Znd3BwY2tueGNsdHN4b3d4cHAyeGEwanlpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding GIF" width="500" height="320"/>
 </p>
