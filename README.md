@@ -1,4 +1,7 @@
 # Hi there, I'm Akshay Kumar! 👋
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNsZnZnODR1YTc2a3Znd3BwY2tueGNsdHN4b3d4cHAyeGEwanlpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding GIF" width="500" height="320"/>
+</p>
 
 Welcome to my GitHub profile! I'm a passionate BTech student and web developer, constantly learning and building cool projects. Here, you'll find some of my latest works, including personal projects, open-source contributions, and challenges I'm working on.
 
