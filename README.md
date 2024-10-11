@@ -54,6 +54,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay0712-dev&theme=radical" alt="GitHub Streak" />
 </p>
 
+---
+
+
+## 🌱 Currently Learning
+- Full-stack development (Express.js, MongoDB)
+- Open-source contributions
+- GSoC 2025 prep
+
+---
+
 ## 🛠 Projects
 Here are some of my favorite projects:
 - **[CampusDocs](https://github.com/akshay/CampusDocs)**: A platform for accessing essential student documents and college WhatsApp groups.
@@ -63,12 +73,6 @@ Check out my repositories to explore more projects!
 
 ---
 
-## 🌱 Currently Learning
-- Full-stack development (Express.js, MongoDB)
-- Open-source contributions
-- GSoC 2025 prep
-
----
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/akshay-kumar-93b487215/)
@@ -79,6 +83,12 @@ Check out my repositories to explore more projects!
 ## ⚡ Fun Fact
 I love building things from scratch and solving real-world problems through code! Always excited to collaborate and learn new technologies.
 
+---
+<h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding Fun GIF" width="300" />
+</p>
 
 <!---
 akshay0712-dev/akshay0712-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
