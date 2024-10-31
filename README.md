@@ -81,6 +81,21 @@
 </table>
 <!--- stats (end) -->
 
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=akshay0712-dev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+
+
 
 ## 🌱 Currently Learning
 - Full-stack development (Express.js, MongoDB)
@@ -104,19 +119,7 @@ Check out my repositories to explore more projects!
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/akshay-kumar-93b487215/)
 - **Email**: [Email](akshayrishu4@gmail.com)
 
----
-
-## ⚡ Fun Fact
-I love building things from scratch and solving real-world problems through code! Always excited to collaborate and learn new technologies.
 
 ---
-<h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
+[![](https://visitcount.itsvg.in/api?id=akshay0712-dev&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding Fun GIF" width="300" />
-</p>
-
-<!---
-akshay0712-dev/akshay0712-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
