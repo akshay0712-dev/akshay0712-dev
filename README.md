@@ -1,6 +1,17 @@
-<h1 align="center">Hi there, I'm Akshay Kumar! 👋</h1>
 
-<h3 align="center">Aspiring Software Developer | Tech Enthusiast | Open Source Contributor</h3>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Akshay Kumar</h1></summary>
+  </ul>
+</div>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--  -->
+<div align="center">
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Self-taught+Front-End+Developer%2C;Aspiring+Software+Developer%2C;Computer+Science+Student%2C;Tech+Enthusiast%2C;Active+Learner%2FResearcher%2C;Love+to+learn+new+stuffs..%3C3" alt="Typing SVG" /></a>
+</div>
+
 <p align="center">
   <img src="./Banner.png" alt="Coding GIF" width="1000" height="250"/>
 </p>
@@ -22,7 +33,7 @@
 </p>
 
 
-## 🔧 Tech Stack & Skills
+## 💻 Tech Stack & Skills
 - **Languages**:
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -49,12 +60,26 @@
 ---
 ### 📊 GitHub Stats:
 
+<!--- stats & Trophy (start) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshay0712-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay0712-dev&theme=radical" alt="GitHub Streak" />
-</p>
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=akshay0712-dev&theme=radical&show_icons=true&hide_border=false&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay0712-dev&theme=radical&hide_border=false" /> 
+</td>
 
----
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay0712-dev&theme=radical&show_icons=true&hide_border=false&layout=compact"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
 
 ## 🌱 Currently Learning
