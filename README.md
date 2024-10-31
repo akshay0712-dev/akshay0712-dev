@@ -89,20 +89,14 @@
 </div>
 <!--- trophy (start) -->
 
-### ✍️Random Dev Quote
+## ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-
-
 
 ## 🌱 Currently Learning
 - Full-stack development (Express.js, MongoDB)
 - Open-source contributions
 - GSoC 2025 prep
 
----
 
 ## 🛠 Projects
 Here are some of my favorite projects:
@@ -112,14 +106,11 @@ Here are some of my favorite projects:
 
 Check out my repositories to explore more projects!
 
----
 
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/akshay-kumar-93b487215/)
 - **Email**: [Email](akshayrishu4@gmail.com)
 
-
----
 [![](https://visitcount.itsvg.in/api?id=akshay0712-dev&icon=0&color=6)](https://visitcount.itsvg.in)
 
