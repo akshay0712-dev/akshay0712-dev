@@ -101,7 +101,7 @@
 ## 🛠 Projects
 Here are some of my favorite projects:
 - **[Portfolio Website](https://akshay0712-dev.github.io/portfolio/)**: A personal portfolio showcasing my skills, projects, and journey as a developer.
-- **[CampusDocs](https://akshay0712-dev.github.io/CampusDocs)**: A platform for accessing essential student documents and college WhatsApp groups.
+- **[CampusDocs](https://akshay0712-dev.github.io/campusDocs)**: A platform for accessing essential student documents and college WhatsApp groups.
 - **[7-day React Challenge](https://akshay0712-dev.github.io/project/)**: I'm currently building 7 React projects in 7 days to enhance my skills.
 
 Check out my repositories to explore more projects!
