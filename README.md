@@ -12,9 +12,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Self-taught+Front-End+Developer%2C;Aspiring+Software+Developer%2C;Computer+Science+Student%2C;Tech+Enthusiast%2C;Active+Learner%2FResearcher%2C;Love+to+learn+new+stuffs.." alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="./Banner.png" alt="Coding GIF" width="1000" height="250"/>
-</p>
 
 <h2 align="center">👨‍💻 About Me</h2>
 <h5 align="center">
