@@ -9,9 +9,9 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me [Portfolio](https://akshay-dev.in)
 
-- 🎓 4th Semester Engineering Student  
+- 🎓 3rd Semester Engineering Student  
 - 🤖 Building **AI-powered CLI & Web Agents**
 - 🧩 Strong in **MERN Stack + REST APIs + JWT**
 - 🔥 Exploring **RAG, Tool Calling, Vector DBs, MongoDB AI**
